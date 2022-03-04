@@ -1,6 +1,6 @@
 # European_Union_countries_API_App
 
-### The project does:
+### This project does:
 This application consumes data from
 https://restcountries.com/ and returns everything about the country you are looking for.
 
