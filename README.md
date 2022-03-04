@@ -16,6 +16,7 @@ https://restcountries.com/ and returns everything about the country you are look
 
 - For unit tests click <b> Tests </b> Run all tests.
 
+![Alt Text](https://github.com/Raitis-Silins/28StoneCountriesApi_task/blob/main/assets/tests.gif)
 
 
 
