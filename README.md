@@ -9,16 +9,19 @@ https://restcountries.com/ and returns everything about the country you are look
 
 ![Alt Text](https://github.com/Raitis-Silins/28StoneCountriesApi_task/blob/main/assets/UnZip.gif)
 
+---
+
 - Click run in Visual Studio.
 
-
 ![Alt Text](https://github.com/Raitis-Silins/28StoneCountriesApi_task/blob/main/assets/start.gif)
+
+---
 
 - For unit tests click <b> Tests </b> Run all tests.
 
 ![Alt Text](https://github.com/Raitis-Silins/28StoneCountriesApi_task/blob/main/assets/xTests.gif)
 
-
+---
 
 ### Swagger
 - Swagger support
