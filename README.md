@@ -1,8 +1,8 @@
 # European_Union_countries_API_App
 
 ### This project does:
-This application consumes data from
-https://restcountries.com/ and returns everything about the country you are looking for.
+**This application consumes data from
+https://restcountries.com/ and returns everything about the country you are looking for.**
 
 ### How to run
 - ***`Clone repository to Your local drive and run the sln file.`***
