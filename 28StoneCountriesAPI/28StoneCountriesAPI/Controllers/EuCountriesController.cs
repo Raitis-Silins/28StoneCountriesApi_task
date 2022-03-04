@@ -14,7 +14,7 @@ namespace _28StoneCountriesAPI.Controllers
         }
 
         [HttpGet]
-        [Route("/Country{name}")]
+        [Route("/Country/{name}")]
         public async Task<IActionResult> GetCountry(string name)
         {
             return Ok(await _countryBase.GetCountryByItsName(name));
